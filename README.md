@@ -10,17 +10,12 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const nikita: Developer = {
-  name:      "Nikita Rathour",
-  role:      "Frontend Developer",
-  location:  "India 🇮🇳",
-  skills:    ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  interests: ["UI/UX Design", "Web Apps", "Open Source"],
-  currentlyBuilding: "HRMS — Human Resource Management System",
-  funFact:   "I turn ☕ coffee into beautiful UIs",
-};
-```
+Hi there! I'm a passionate **Frontend Developer** based in India, specializing in building modern, responsive, and user-centric web applications. I love bridging the gap between design and engineering to create pixel-perfect, interactive digital experiences.
+
+- 🔭 I’m currently building a **Human Resource Management System (HRMS)** utilizing Next.js and Tailwind CSS.
+- 🌱 I’m currently diving deeper into **Advanced React Patterns** and **Full-Stack Development**.
+- 💬 Ask me about **React, Next.js, and modern UI design**.
+- 📫 How to reach me: **[nikitarathour14@gmail.com](mailto:nikitarathour14@gmail.com)**
 
 ---
 
