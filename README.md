@@ -108,7 +108,7 @@ Hi there! I'm a passionate **Frontend Developer** based in India, specializing i
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nik14ta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nik14ta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Rathour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-rathour)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Rathour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-rathour-6a88ba2a8)
 [![Gmail](https://img.shields.io/badge/Email-nikitarathour14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitarathour14@gmail.com)
 
 </div>
