@@ -114,7 +114,7 @@ const nikita: Developer = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-nik14ta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nik14ta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Rathour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-rathour)
-[![Gmail](https://img.shields.io/badge/Email-nikita@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita@email.com)
+[![Gmail](https://img.shields.io/badge/Email-nikitarathour14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitarathour14@gmail.com)
 
 </div>
 
