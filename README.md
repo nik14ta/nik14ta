@@ -86,6 +86,6 @@ Here are some of the projects I've been working on:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik14ta&show_icons=true&theme=radium&hide_border=true" alt="Nikita's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik14ta&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nik14ta&show_icons=true&theme=radium&hide_border=true" alt="Nikita's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nik14ta&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
